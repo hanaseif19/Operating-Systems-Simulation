@@ -1,6 +1,6 @@
 # OS Project with MLFQ Scheduling
 
-This project implements an operating system in Java featuring Multi-Level Feedback Queue (MLFQ) scheduling. The OS is designed to handle resource and memory allocation, file reading, and concurrency using mutexes. Key features include:
+This project implements an operating system in C featuring Multi-Level Feedback Queue (MLFQ) scheduling. The OS is designed to handle resource and memory allocation, file reading, and concurrency using mutexes. Key features include:
 
 ## Key Features
 
